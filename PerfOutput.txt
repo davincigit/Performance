@@ -1,0 +1,5 @@
+Total weight of Fuel (lbs.) = 250.0
+Weight of Fule Available for Cruise (lbs.) = 212.5
+
+Max.Range (Miles) = 8.048274074539993E-5
+Stall Speed(Miles/hr) = 74.97488403320312
